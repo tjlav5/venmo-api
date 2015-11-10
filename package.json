@@ -1,0 +1,25 @@
+{
+  "name": "venmo-api",
+  "version": "0.1.0",
+  "description": "A Node wrapper for the Venmo API",
+  "main": "src/api.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/api.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjlav5/venmo-api.git"
+  },
+  "keywords": [
+    "venmo"
+  ],
+  "author": "TJ Lavelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjlav5/venmo-api/issues"
+  },
+  "homepage": "https://github.com/tjlav5/venmo-api#readme"
+}
